@@ -1,0 +1,9 @@
+BENEFICIOS DE APRENDER GIT E GITHUB
+
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhorar seu código
+_ Reconhecimento 
+
+O Github funciona como uma rede social para programadores
