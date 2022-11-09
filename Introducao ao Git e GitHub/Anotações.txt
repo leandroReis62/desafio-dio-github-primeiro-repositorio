@@ -4,6 +4,16 @@ BENEFICIOS DE APRENDER GIT E GITHUB
 - Armazenamento em nuvem
 - Trabalho em equipe
 - Melhorar seu código
-_ Reconhecimento 
+- Reconhecimento 
 
 O Github funciona como uma rede social para programadores
+
+COMANDOS BASICOS GIT
+
+DIR - Serve para listar pastas e para se situar dentro do sistema operacional
+CD ou CD / - Direciona para uma pasta especifica dentro do sistema operacional
+CD WINDOWS - Serve para entrar dentro da pasta do windows
+CD .. - Serve para voltar para pagina antrerior
+MKDIR - Serve para criar uma pasta 
+RMDIR - Serve para remover um repositorio com todos os arquivos que estao dentro
+
