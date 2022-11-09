@@ -1,3 +1,16 @@
+TÓPICOS FUNDAMENTAIS PARA ENTENDER O FUNCIONAMENTO DO GIT
+
+° SHA1
+° Objetos fundamentais
+° Sistema distribuido
+° Segurança
+
+OBJETOS INTERNOS DO GIT
+
+° BLOBS
+° TREES
+° COMMITS
+
 BENEFICIOS DE APRENDER GIT E GITHUB
 
 - Controle de versão
@@ -7,6 +20,7 @@ BENEFICIOS DE APRENDER GIT E GITHUB
 - Reconhecimento 
 
 O Github funciona como uma rede social para programadores
+
 
 COMANDOS BASICOS GIT
 
